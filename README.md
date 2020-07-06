@@ -22,3 +22,7 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 8. [React Logo](https://codepen.io/pramesha/pen/BajmqNg)
 9. [Angular Logo](https://codepen.io/pramesha/pen/mdVpWgK)
 10. [Batman Logo](https://codepen.io/pramesha/pen/oNbpPdZ)
+
+## Week 3
+### Day
+11. [Clock](https://codepen.io/pramesha/full/xxZWKER)
