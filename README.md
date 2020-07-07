@@ -26,3 +26,4 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 ## Week 3
 ### Day
 11. [Clock](https://codepen.io/pramesha/full/xxZWKER)
+12. [Notebook](https://codepen.io/pramesha/full/bGEvvxe)
