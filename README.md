@@ -9,19 +9,19 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 
 ## Week 1
 ### Day
-1. [Koala](https://codepen.io/pramesha/pen/xxZqooz)
-2. [Bear](https://codepen.io/pramesha/pen/zYrwNeE)
-3. [Cool Owl](https://codepen.io/pramesha/pen/MWKmdvZ)
-4. [SpongeBob](https://codepen.io/pramesha/pen/QWygavN)
-5. [Panda](https://codepen.io/pramesha/pen/QWyMbRx)
+1. [Koala](https://codepen.io/pramesha/full/xxZqooz)
+2. [Bear](https://codepen.io/pramesha/full/zYrwNeE)
+3. [Cool Owl](https://codepen.io/pramesha/full/MWKmdvZ)
+4. [SpongeBob](https://codepen.io/pramesha/full/QWygavN)
+5. [Panda](https://codepen.io/pramesha/full/QWyMbRx)
 
 ## Week 2
 ### Day
-6. [JavaScript Logo](https://codepen.io/pramesha/pen/vYLeWXX)
-7. [Vue JS Logo](https://codepen.io/pramesha/pen/QWyONZv)
-8. [React Logo](https://codepen.io/pramesha/pen/BajmqNg)
-9. [Angular Logo](https://codepen.io/pramesha/pen/mdVpWgK)
-10. [Batman Logo](https://codepen.io/pramesha/pen/oNbpPdZ)
+6. [JavaScript Logo](https://codepen.io/pramesha/full/vYLeWXX)
+7. [Vue JS Logo](https://codepen.io/pramesha/full/QWyONZv)
+8. [React Logo](https://codepen.io/pramesha/full/BajmqNg)
+9. [Angular Logo](https://codepen.io/pramesha/full/mdVpWgK)
+10. [Batman Logo](https://codepen.io/pramesha/full/oNbpPdZ)
 
 ## Week 3
 ### Day
@@ -30,3 +30,8 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 13. [Calendar](https://codepen.io/pramesha/full/mdVLOGL)
 14. [Pencil Jar](https://codepen.io/pramesha/full/XWXqoZx)
 15. [Ruler](https://codepen.io/pramesha/full/GRoGvZK)
+
+## Week 4
+### Day
+16. [Cellphone](https://codepen.io/pramesha/full/qBbyyGV)
+17. [Laptop](https://codepen.io/pramesha/full/xxZaEmJ)
