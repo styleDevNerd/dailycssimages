@@ -35,3 +35,4 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 ### Day
 16. [Cellphone](https://codepen.io/pramesha/full/qBbyyGV)
 17. [Laptop](https://codepen.io/pramesha/full/xxZaEmJ)
+18. [External Monitor](https://codepen.io/pramesha/full/GRoXLEP)
