@@ -36,3 +36,5 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 16. [Cellphone](https://codepen.io/pramesha/full/qBbyyGV)
 17. [Laptop](https://codepen.io/pramesha/full/xxZaEmJ)
 18. [External Monitor](https://codepen.io/pramesha/full/GRoXLEP)
+19. [Nintendo 2DS](https://codepen.io/pramesha/full/OJMBzpr)
+20. [Keyboard](https://codepen.io/pramesha/full/bGEQdXW)
