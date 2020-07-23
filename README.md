@@ -42,3 +42,5 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 ## Week 5
 ### Day
 21. [Pizza](https://codepen.io/pramesha/full/MWKZmpj)
+22. [Taco](https://codepen.io/pramesha/full/mdVaNmM)
+23. [Cheesecake](https://codepen.io/pramesha/pen/NWxoywQ)
