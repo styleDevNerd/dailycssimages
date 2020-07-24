@@ -43,4 +43,6 @@ You can also view them on my [codepen](https://codepen.io/pramesha) profile.
 ### Day
 21. [Pizza](https://codepen.io/pramesha/full/MWKZmpj)
 22. [Taco](https://codepen.io/pramesha/full/mdVaNmM)
-23. [Cheesecake](https://codepen.io/pramesha/pen/NWxoywQ)
+23. [Cheesecake](https://codepen.io/pramesha/full/NWxoywQ)
+24. [Ice-cream](https://codepen.io/pramesha/full/eYJXZWp)
+25. [Waffle](https://codepen.io/pramesha/full/jOWJvoe)
