@@ -1,0 +1,260 @@
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&amp;display=swap";
+:root {
+  --white: #ffffff;
+  --bg-none: none;
+  --dark-blue: #1d3557;
+  --blue: #457b9d;
+  --light-blue: #a8dadc;
+  --grey: #f1faee;
+  --red: #e63946;
+}
+body {
+  background: var(--dark-blue);
+  font-family: 'Poppins', sans-serif;
+}
+/* Header */
+header {
+  margin: 50px auto;
+  text-align: center;
+  max-width: 400px;
+}
+h1 {
+  margin: 0;
+  font-weight: 900;
+  color: var(--light-blue);
+}
+p {
+  font-size: 15px;
+  color: var(--grey);
+}
+/* Cards */
+.container {
+  position: relative;
+  display: block;
+  justify-content: center;
+  width: 1240px;
+  height: 520px;
+  margin: 0 auto;
+  background: none;
+}
+.card {
+  position: absolute;
+  width: 16%;
+  height: 32%;
+  border-radius: 18px;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+.card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 26%;
+  padding: 3.5px;
+  text-align: center;
+  height: 20px;
+  width: 45%;
+  background-color: var(--bg-none);
+}
+.card:hover {
+  transform: scale(1.05);
+  opacity: 0.8;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.d-one {
+  left: 15%;
+  top: 7.3%;
+}
+.d-one::after {
+  content: 'Day 1';
+}
+.d-two {
+  left: 2%;
+  top: -10%;
+}
+.d-two::after {
+  content: 'Day 2';
+}
+.d-three {
+  left: 2%;
+  top: 25%;
+}
+.d-three::after {
+  content: 'Day 3';
+}
+.d-four {
+  left: 2%;
+  top: 60%;
+}
+.d-four::after {
+  content: 'Day 4';
+}
+.d-five {
+  left: 15%;
+  top: 42.5%;
+  background: var(--light-green);
+}
+.d-five::after {
+  content: 'Day 5';
+}
+.d-six {
+  left: 28%;
+  top: 25%;
+}
+.d-six::after {
+  content: 'Day 6';
+}
+.d-seven {
+  left: 28%;
+  top: -10%;
+}
+.d-seven::after {
+  content: 'Day 7';
+}
+.d-eight {
+  left: 41%;
+  top: 7.3%;
+}
+.d-eight::after {
+  content: 'Day 8';
+}
+.d-nine {
+  left: 54%;
+  top: -10%;
+}
+.d-nine::after {
+  content: 'Day 9';
+}
+.d-ten {
+  left: 54%;
+  top: 25%;
+  color: var(--white);
+}
+.d-ten::after {
+  content: 'Day 10';
+}
+.d-eleven {
+  left: 41%;
+  top: 42.5%;
+  color: var(--white);
+}
+.d-eleven::after {
+  content: 'Day 11';
+}
+.d-twelve {
+  left: 28%;
+  top: 60%;
+}
+.d-twelve::after {
+  content: 'Day 12';
+}
+.d-thirteen {
+  left: 15%;
+  top: 77%;
+}
+.d-thirteen::after {
+  content: 'Day 13';
+}
+.d-fourteen {
+  left: 28%;
+  top: 95%;
+}
+.d-fourteen::after {
+  content: 'Day 14';
+}
+.d-fifteen {
+  left: 41%;
+  top: 77%;
+}
+.d-fifteen::after {
+  content: 'Day 15';
+}
+.d-sixteen {
+  left: 54%;
+  top: 60%;
+}
+.d-sixteen::after {
+  content: 'Day 16';
+}
+.d-seventeen {
+  left: 67%;
+  top: 42.5%;
+}
+.d-seventeen::after {
+  content: 'Day 17';
+}
+.d-eighteen {
+  left: 67%;
+  top: 7.3%;
+}
+.d-eighteen::after {
+  content: 'Day 18';
+}
+.d-nineteen {
+  left: 80%;
+  top: -10%;
+}
+.d-nineteen::after {
+  content: 'Day 19';
+}
+.d-twenty {
+  left: 80%;
+  top: 25%;
+}
+.d-twenty::after {
+  content: 'Day 20';
+}
+.d-twentyone {
+  left: 80%;
+  top: 60%;
+}
+.d-twentyone::after {
+  content: 'Day 21';
+}
+.d-twentytwo {
+  left: 67%;
+  top: 77%;
+}
+.d-twentytwo::after {
+  content: 'Day 22';
+}
+.d-twentythree {
+  left: 54%;
+  top: 95%;
+}
+.d-twentythree::after {
+  content: 'Day 23';
+}
+.d-twentyfour {
+  left: 67%;
+  top: 112%;
+}
+.d-twentyfour::after {
+  content: 'Day 24';
+}
+.d-twentyfive {
+  left: 80%;
+  top: 95%;
+}
+.d-twentyfive::after {
+  content: 'Day 25';
+}
+/* Footer */
+footer {
+  position: absolute;
+  top: 145%;
+  left: 45%;
+}
+footer .fa-heart{
+  color: var(--red);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: var(--light-blue);
+  text-decoration: none;
+}
